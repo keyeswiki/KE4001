@@ -1,5 +1,7 @@
 
-### 1. MicroPython编程软件介绍
+# MicroPython编程
+
+## 1. MicroPython编程软件介绍
 
 **MicroPython**是一个旨在在微控制器和嵌入式系统上运行Python编程语言的实现。它设计用于运行在资源受限的设备上，并且提供了与硬件直接交互的简便方法。MicroPython不仅支持常见的Python功能，还提供了用于控制硬件的API，使得在单板计算机（如树莓派Pico）上的编程变得简单和直观。
 
@@ -7,11 +9,11 @@ MicroPython适合于教育、原型开发和物联网应用，帮助开发者和
 
 ---
 
-### 2. 连接图
+## 2. 连接图
 
 ![](media/d6d2f849707d3f69ca2821dc5aaddc57.png)
 
-### 3. 测试代码
+## 3. 测试代码
 
 ```python
 import machine
@@ -26,7 +28,7 @@ while True:
     utime.sleep(2)
 ```
 
-### 4. 代码介绍
+## 4. 代码介绍
 
 - **import machine**  
   机器库包含MicroPython需要与Pico和其他MicroPython兼容的设备通信的所有指令，扩展了物理计算的语言。
@@ -40,11 +42,11 @@ while True:
 - **utime.sleep(2)**  
   这调用utime库中的sleep函数，暂停程序输入的秒数——在本例中为2秒。
 
-### 5. 测试结果
+## 5. 测试结果
 
 烧录好测试代码，按照接线图连接好线；上电后，LED模块上的LED闪烁，亮2秒，灭2秒，循环交替。
 
-### 6. 加强训练（呼吸灯）
+## 6. 加强训练（呼吸灯）
 
 本部分涉及到PWM（脉宽调制）控制方式：
 

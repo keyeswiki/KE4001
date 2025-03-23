@@ -7,6 +7,8 @@
 
 Kidsblock特别适用于教育和自学，提供了直观的开发环境，让学习编程变得轻松有趣。
 
+* [KidsBlock图形化编程软件使用说明](https://www.keyesrobot.cn/projects/KidsBlock)
+
 ---
 
 ## 2. 连接图

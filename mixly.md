@@ -6,6 +6,9 @@
 
 Mixly支持多种硬件，如Arduino等，适合于各种教育场景，尤其是在STEM教育中，帮助学生们实现创意项目，提高动手能力和逻辑思维能力。
 
+* [Mixly图形化编程软件使用说明](https://www.keyesrobot.cn/projects/mixly)
+
+
 ---
 
 ## 2. 连接图

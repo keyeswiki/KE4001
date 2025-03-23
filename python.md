@@ -7,6 +7,8 @@
 
 MicroPython适合于教育、原型开发和物联网应用，帮助开发者和学生快速实现硬件控制和信号处理。
 
+* [Thonny软件使用说明](https://www.keyesrobot.cn/projects/Thonny)
+
 ---
 
 ## 2. 连接图
